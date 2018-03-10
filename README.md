@@ -7,8 +7,9 @@ DBAmon is a freeware Database Monitoring tool. It monitors:
 - Oracle
 - Informix
 
-All information abou DBAmon is stored at http://dbamon.com
-
+DBAmon Home:                http://dbamon.com
+DBAmon Enhancement History: http://dbamon.com/misc/change_history.shtml
+What DBAmon Monitors:       http://dbamon.com/misc/monitors.shtml
 
 Bill Border
 bbcolo22@gmail.com
