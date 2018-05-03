@@ -1,5 +1,5 @@
 # DBAmon
-Freeware Database Monitoring Tool
+Open Source Freeware Database Monitoring Tool
 
 DBAmon is a freeware Database Monitoring tool. It monitors:
 
